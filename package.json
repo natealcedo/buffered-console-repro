@@ -1,0 +1,16 @@
+{
+  "name": "buffered-console-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nathaniel D Alcedo Jr <nathaniel.alcedo@axa.com.sg>",
+  "license": "MIT",
+  "dependencies": {
+    "winston": "^3.2.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
